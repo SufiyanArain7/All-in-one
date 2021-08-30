@@ -546,4 +546,4 @@ async def on_command_error(ctx, error):
         )
     await ctx.send(f"{error}")
 
-bot.run('ODIzNjM4NDk3NDMyNTY3ODM4.YFjvIA.08-_ENYpn7_qbvza45PXoIeHHPI')
+bot.run('TOKEN')
